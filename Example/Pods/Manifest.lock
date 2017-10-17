@@ -1,0 +1,16 @@
+PODS:
+  - TPNetwork (0.1.0)
+
+DEPENDENCIES:
+  - TPNetwork (from `../`)
+
+EXTERNAL SOURCES:
+  TPNetwork:
+    :path: ../
+
+SPEC CHECKSUMS:
+  TPNetwork: 5892415df87ac49b4c4632ddf85b9d14580773f9
+
+PODFILE CHECKSUM: 299c7978840d0eb63c4aa2ea89a397b4aaf41e31
+
+COCOAPODS: 1.2.1

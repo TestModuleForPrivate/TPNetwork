@@ -1,0 +1,22 @@
+{
+  "name": "TPNetwork",
+  "version": "0.1.0",
+  "summary": "A short description of TPNetwork.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/TPQuietBro/TPNetwork",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "TPQuietBro": "1186886308@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/TPQuietBro/TPNetwork.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TPNetwork/Classes/**/*"
+}
